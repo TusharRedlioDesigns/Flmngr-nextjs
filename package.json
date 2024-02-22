@@ -9,8 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@flmngr/flmngr-react": "^2.0.4",
+    "@flmngr/flmngr-server-node": "^1.5.3",
+    "@tinymce/tinymce-react": "^4.3.2",
+    "flmngr": "^2.0.13",
+    "next": "^12.3.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.0"
+    "react-dom": "^18"
   }
 }
